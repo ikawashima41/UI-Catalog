@@ -1,6 +1,6 @@
 # iOS-UI-Catalog
 
-![Demo](https://github.com/ikawashima41/Resource/ui-catalog.gif)
+![Demo](https://github.com/ikawashima41/Resource/blob/master/ui-catalog.gif)
 
 ## How to setup
 
